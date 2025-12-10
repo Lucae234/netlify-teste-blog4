@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sexta-feira 20h! 💖</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #fce4ec; /* Rosa suave */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            color: #4a4a4a;
+            line-height: 1.6;
+        }
+        .container {
+            background-color: #ffffff;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+            padding: 40px;
+            max-width: 550px;
+            text-align: center;
+            border: 3px solid #e91e63; /* Borda de destaque */
+        }
+        h1 {
+            color: #e91e63; /* Rosa forte */
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        h2 {
+            color: #7b1fa2; /* Roxo */
+            font-size: 1.8em;
+            margin-bottom: 30px;
+        }
+        p {
+            font-size: 1.1em;
+            margin-bottom: 25px;
+        }
+        .botoes-container {
+            margin-top: 40px;
+            display: flex;
+            justify-content: space-around;
+        }
+        .btn {
+            padding: 12px 25px;
+            border: none;
+            border-radius: 8px;
+            font-size: 1.1em;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: bold;
+            color: white;
+            text-decoration: none; /* Para usar <a> como botão */
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .btn-sim {
+            background-color: #4CAF50; /* Verde */
+        }
+        .btn-sim:hover {
+            background-color: #45a049;
+            transform: scale(1.05);
+        }
+        .btn-claro {
+            background-color: #00bcd4; /* Azul Turquesa */
+        }
+        .btn-claro:hover {
+            background-color: #0097a7;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Um Convite Irresistível! ✨</h1>
+        <h2>Sexta-feira às 20h! 🍿🎬</h2>
+        
+        <p>
+            Tudo certo com nosso cinema nesta **sexta-feira**.
+            Tenho certeza de que vamos dar muita risada e aproveitar, independentemente do filme que escolhermos.
+        </p>
+        
+        <p>
+            Mal posso esperar para te contar as cagadas que fiz essa semana e principalmente de como cai kkk
+        </p>
+
+        <div class="botoes-container">
+            <a href="sucesso.html" class="btn btn-sim">
+                SIM <span class="emoji">✅</span>
+            </a>
+            
+            <a href="sucesso.html" class="btn btn-claro">
+                Claro que sim! <span class="emoji">🤩</span>
+            </a>
+        </div>
+
+        <p style="margin-top: 40px; font-style: italic; color: #888;">
+                             Cabeça de lampada, Lucas.
+
+		Você não vai escapar do Unão dessa vez em kkkkk
+        </p>
+    </div>
+</body>
+</html>
