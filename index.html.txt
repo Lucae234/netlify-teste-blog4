@@ -180,11 +180,11 @@
                     </div>
 
                     <p>
-                        Agora vamos dar uma olhda onde vamos e partiu e talvez quem sabe mudar a data, não sei...kkkk
+                        Agora vamos ver para onde vamos e partiu. E talvez quem sabe mudar a data, não sei...kkkk
                     </p>
                     
                     <p>
-                        Não se preocupe com mais nada, deixa que o pai vai resolver e pensar em tudo  😉
+                        Não se preocupe com mais nada, deixa que o pai vai resolver e pensa em tudo  😉
                     </p>
                     
                     <p class="assinatura">
@@ -204,3 +204,4 @@
     </script>
 </body>
 </html>
+
